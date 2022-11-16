@@ -20,4 +20,15 @@ See the application [HERE]()
 
 What the application looks like:
 
-![screenshot]()
+![screenshot](./assets/images/Screen%20Shot%202022-11-15%20at%207.16.04%20PM.png)
+
+![screenshot](./assets/images/Screen%20Shot%202022-11-15%20at%207.16.32%20PM.png)
+
+# Technology
+
+    HTML
+    CSS
+
+# Questions 
+
+If you have any questions about this application please email me or visit me on [GitHub](https://github.com/MychaelC)
