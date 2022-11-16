@@ -14,7 +14,7 @@ My task in this application was to refactor the code to a cleaner and more usabl
 
 # Link
 
-See the application [HERE]()
+See the application [HERE](https://mychaelc.github.io/code-refactor/)
 
 # Screenshot
 
